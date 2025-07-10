@@ -1,0 +1,11 @@
+D:\Computer Engineering 2022\CE.Z third Year\Visual Programing\C#\CALCULATOR-Z1\CALCULATOR-Z\bin\Debug\CALCULATOR-Z.exe.config
+D:\Computer Engineering 2022\CE.Z third Year\Visual Programing\C#\CALCULATOR-Z1\CALCULATOR-Z\bin\Debug\CALCULATOR-Z.exe
+D:\Computer Engineering 2022\CE.Z third Year\Visual Programing\C#\CALCULATOR-Z1\CALCULATOR-Z\bin\Debug\CALCULATOR-Z.pdb
+D:\Computer Engineering 2022\CE.Z third Year\Visual Programing\C#\CALCULATOR-Z1\CALCULATOR-Z\obj\Debug\CALCULATOR-Z.csproj.AssemblyReference.cache
+D:\Computer Engineering 2022\CE.Z third Year\Visual Programing\C#\CALCULATOR-Z1\CALCULATOR-Z\obj\Debug\CALCULATOR-Z.csproj.SuggestedBindingRedirects.cache
+D:\Computer Engineering 2022\CE.Z third Year\Visual Programing\C#\CALCULATOR-Z1\CALCULATOR-Z\obj\Debug\CALCULATOR_Z.CalculatorForm.resources
+D:\Computer Engineering 2022\CE.Z third Year\Visual Programing\C#\CALCULATOR-Z1\CALCULATOR-Z\obj\Debug\CALCULATOR_Z.Properties.Resources.resources
+D:\Computer Engineering 2022\CE.Z third Year\Visual Programing\C#\CALCULATOR-Z1\CALCULATOR-Z\obj\Debug\CALCULATOR-Z.csproj.GenerateResource.cache
+D:\Computer Engineering 2022\CE.Z third Year\Visual Programing\C#\CALCULATOR-Z1\CALCULATOR-Z\obj\Debug\CALCULATOR-Z.csproj.CoreCompileInputs.cache
+D:\Computer Engineering 2022\CE.Z third Year\Visual Programing\C#\CALCULATOR-Z1\CALCULATOR-Z\obj\Debug\CALCULATOR-Z.exe
+D:\Computer Engineering 2022\CE.Z third Year\Visual Programing\C#\CALCULATOR-Z1\CALCULATOR-Z\obj\Debug\CALCULATOR-Z.pdb
